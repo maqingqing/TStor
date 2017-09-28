@@ -102,6 +102,14 @@ $(document).ready(function() {
 			$('.property').eq(index).addClass('active').siblings().removeClass('active');
 		})
 	});
+	
+	$('.feature').each(function(){
+		$(this).click(function(){
+			var index = $(this).index();
+			$(this).addClass('active').siblings().removeClass('active');
+			$('.pp').eq(index).addClass('active').siblings().removeClass('active');
+		})
+	});
 
 
 });
