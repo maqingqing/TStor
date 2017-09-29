@@ -112,4 +112,19 @@ $(document).ready(function() {
 	});
 
 
+	
+	//返回顶部
+		//-----------------------------------------------
+		$(window).scroll(function() {
+			if($(this).scrollTop() >= 100) {
+				$("#topcontrol").fadeIn(600);	
+			} else if($(this).scrollTop() <= 10) {
+				$("#topcontrol").fadeOut(600);
+			}
+		});
+		
+		$("#topcontrol").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});
+
 });

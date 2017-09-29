@@ -436,7 +436,54 @@ img{
     padding: 26px 0;
 }
 
+/*返回顶部*/
+#topcontrol{
+	position: fixed; 
+	bottom: 5px; 
+	right: 5px; 
+	opacity: 1; 
+	cursor: pointer;
+	background: #5d80a1;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: none;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    z-index: 30;
+}
+#topcontrol .fa {
+    position: relative;
+    top: 6px;
+    font-size: 25px;
+}
 
+@media (max-width: 767px){
+	.navbar-collapse {
+	    border-top: none;
+	    -webkit-box-shadow: none;
+	    -moz-box-shadow: none;
+	    box-shadow: none;
+	    width: 100%;
+	    left: 0;
+	    top: 90px;
+	    position: absolute;
+	    background: #253340;
+	    z-index: 45;
+	}
+}
 
 
 
