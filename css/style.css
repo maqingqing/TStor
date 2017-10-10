@@ -560,7 +560,7 @@ img{
  	  .main-nav {
     	float: right !important;
   	}
-  	.navbar-fixed-top .navbar-collapse {
+  	.navbar-collapse {
     	padding-left: 15px;
     	padding-right: 15px;
   	}

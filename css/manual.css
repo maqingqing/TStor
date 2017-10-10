@@ -1,0 +1,6 @@
+.header.scrolled{
+	position: fixed;
+}
+.header .main-nav .nav .nav-item a {
+    color: #92989b;
+}

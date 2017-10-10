@@ -1,8 +1,6 @@
 $(document).ready(function() {
 
     /* ======= Twitter Bootstrap hover dropdown ======= */   
-    /* Ref: https://github.com/CWSpear/bootstrap-hover-dropdown */ 
-    /* apply dropdownHover to all elements with the data-hover="dropdown" attribute */
     
     $('[data-hover="dropdown"]').dropdownHover();
     
@@ -20,14 +18,8 @@ $(document).ready(function() {
     
     
     /* ======= jQuery Placeholder ======= */
-    /* Ref: https://github.com/mathiasbynens/jquery-placeholder */
     
     $('input, textarea').placeholder();    
-    
-    /* ======= jQuery FitVids - Responsive Video ======= */
-    /* Ref: https://github.com/davatron5000/FitVids.js/blob/master/README.md */
-    
-    $(".video-container").fitVids();
     
     /* ======= FAQ accordion ======= */
     function toggleIcon(e) {
@@ -43,7 +35,6 @@ $(document).ready(function() {
     
     
     /* ======= Header Background Slideshow - Flexslider ======= */    
-    /* Ref: https://github.com/woothemes/FlexSlider/wiki/FlexSlider-Properties */
     
     $('.bg-slider').flexslider({
         animation: "fade",
@@ -51,15 +42,9 @@ $(document).ready(function() {
         controlNav: false, //remove the default control-nav
         slideshowSpeed: 8000
     });
-	
-	/* ======= Stop Video Playing When Close the Modal Window ====== */
-    $("#modal-video .close").on("click", function() {
-        $("#modal-video iframe").attr("src", $("#modal-video iframe").attr("src"));        
-    });
      
     
      /* ======= Testimonial Bootstrap Carousel ======= */
-     /* Ref: http://getbootstrap.com/javascript/#carousel */
     $('#testimonials-carousel').carousel({
       interval: 8000 
     });
@@ -95,6 +80,7 @@ $(document).ready(function() {
 		
 	});
 	
+	//=====特点1 tab
 	$('.features li').each(function(){
 		$(this).click(function(){
 			var index = $(this).index();
@@ -103,6 +89,7 @@ $(document).ready(function() {
 		})
 	});
 	
+	//=====特点2 tab
 	$('.feature').each(function(){
 		$(this).click(function(){
 			var index = $(this).index();
@@ -113,18 +100,17 @@ $(document).ready(function() {
 
 
 	
-	//返回顶部
-		//-----------------------------------------------
-		$(window).scroll(function() {
-			if($(this).scrollTop() >= 100) {
-				$("#topcontrol").fadeIn(600);	
-			} else if($(this).scrollTop() <= 10) {
-				$("#topcontrol").fadeOut(600);
-			}
-		});
-		
-		$("#topcontrol").click(function() {
-			$("body,html").animate({scrollTop:0},800);
-		});
+	//-------返回顶部--------
+	$(window).scroll(function() {
+		if($(this).scrollTop() >= 100) {
+			$("#topcontrol").fadeIn(600);	
+		} else if($(this).scrollTop() <= 10) {
+			$("#topcontrol").fadeOut(600);
+		}
+	});
+	
+	$("#topcontrol").click(function() {
+		$("body,html").animate({scrollTop:0},800);
+	});
 
 });
