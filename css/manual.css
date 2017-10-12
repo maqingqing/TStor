@@ -37,7 +37,12 @@
 	background: #fafafa;
 	color: #e84c3d;
 }
-
+@media (max-width: 480px){
+	.filters .nav-pills > li {
+	    display: inline-block;
+	    width: 100%;
+	}
+}
 .article {
     margin: 50px 0 50px;
 }
