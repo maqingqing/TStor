@@ -112,5 +112,33 @@ $(document).ready(function() {
 	$("#topcontrol").click(function() {
 		$("body,html").animate({scrollTop:0},800);
 	});
+	
+	
+//	筛选
+	$(window).load(function() {
+		$('.masonry-grid').isotope({
+			itemSelector: '.masonry-grid-item',
+			layoutMode: 'masonry'
+		});
+		$('.masonry-grid-fitrows').isotope({
+			itemSelector: '.masonry-grid-item',
+			layoutMode: 'fitRows'
+		});
+		$('.isotope-container').fadeIn();
+		var $container = $('.isotope-container').isotope({
+			itemSelector: '.isotope-item',
+			layoutMode: 'masonry',
+			transitionDuration: '0.6s',
+			filter: "*"
+		});
+		// filter items on button click
+		$('.filters').on( 'click', 'ul.nav li a', function() {
+			var filterValue = $(this).attr('data-filter');
+			$(".filters").find("li.active").removeClass("active");
+			$(this).parent().addClass("active");
+			$container.isotope({ filter: filterValue });
+			return false;
+		});
+	});
 
 });

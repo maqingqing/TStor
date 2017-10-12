@@ -1,6 +1,101 @@
-.header.scrolled{
-	position: fixed;
+
+/*page-header*/
+.page--header {
+    text-align: center;
+    padding: 80px 0 92px;
+    font-weight: 300;
+    background: url(../images/pattern-dark.png) #383d61;
 }
+.page-header-title{
+	font-size: 60px;
+    color: #fff;
+    font-weight: 400;
+}
+.section .section-header .section--description {
+    font-size: 16px;
+    color: #9b9b9b;
+    text-align: center;
+    margin: 0;
+}
+.filters {
+    margin-top: 20px;
+}
+.filters a{
+    border-radius: 0;
+    padding: 10px 15px;
+    border: 1px solid transparent;
+    color: #666666;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.filters .nav.nav-pills li.active a{
+	background: #fafafa;
+	color: #e84c3d;
+}
+.filters .nav.nav-pills li a:hover{
+	background: #fafafa;
+	color: #e84c3d;
+}
+
+.article {
+    margin: 50px 0 50px;
+}
+.article .article-img {
+    overflow: hidden;
+    border-radius: 3px;
+    margin: 0 0 26px;
+}
+.article .article-img img {
+    width: 100%;
+}
+.article .article-header {
+    verflow: hidden;
+    border-radius: 3px;
+    margin: 0 0 13px;
+}
+.article .article-header h2 {
+    font-size: 20px;
+    line-height: 8px;
+    font-weight: 400;
+}
+.article .article-header h2 a {
+    color: #262626;
+}
+
+.article .article--content {
+    font-size: 16px;
+    line-height: 23px;
+    color: #969696;
+}
+.article .article--content p {
+    font-size: 14px;
+    margin-top: 20px;
+}
+.article .article--footer .link {
+    font-size: 16px;
+    color: #59bcdb;
+}
+.article .article-header a:hover,.article .article--footer a:hover{
+    text-decoration: none;
+}
+.article .article--footer .link:after {
+    content: ">>";
+    color: #59bcdb;
+    margin-left: 8px;
+}
+
+
+
 .header .main-nav .nav .nav-item a {
     color: #92989b;
+}
+.header .main-nav .navbar-toggle{
+	background: #e84c3d;
+}
+@media (min-width: 992px){
+	.header.scrolled{
+		position: fixed;
+	}
+	
 }
