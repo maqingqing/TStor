@@ -1,0 +1,71 @@
+a:hover{
+	text-decoration: none;
+}
+.page--header {
+    text-align: center;
+    padding: 80px 0 92px;
+    font-weight: 300;
+    background: url(../images/pattern-dark.png) #383d61;
+}
+.page-header-title{
+	font-size: 60px;
+    color: #fff;
+    font-weight: 400;
+}
+
+.breadcrumb-box {
+    border-bottom: 1px solid #e9e9e9;
+}
+.breadcrumb-box .am-breadcrumb {
+    padding: 16px 0 0;
+    margin-bottom: 1rem;
+}
+.am-breadcrumb {
+    padding: .7em .5em;
+    margin-bottom: 2rem;
+    list-style: none;
+    background-color: transparent;
+    border-radius: 0;
+    font-size: 85%;
+}
+.am-breadcrumb > li {
+    display: inline-block;
+}
+.breadcrumb-box .am-breadcrumb li a {
+    font-size: 14px;
+    color: #262626;
+}
+.breadcrumb-box .am-breadcrumb li a:hover{
+	color: #ec6952;
+}
+.breadcrumb-box .am-breadcrumb .am-active {
+    color: #6975a6;
+}
+.am-breadcrumb > .am-active {
+    color: #999999;
+}
+.am-breadcrumb > li {
+    display: inline-block;
+}
+.am-breadcrumb > li + li:before {
+    content: "\00bb\00a0";
+    padding: 0 8px;
+    color: #ccc;
+}
+.container.am-container{
+	max-width: 1000px;
+}
+
+
+.header .main-nav .nav .nav-item a {
+    color: #92989b;
+}
+.header .main-nav .navbar-toggle{
+	background: #e84c3d;
+}
+@media (min-width: 992px){
+	.header.scrolled{
+		position: fixed;
+	}
+	
+}
