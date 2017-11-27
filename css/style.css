@@ -150,13 +150,13 @@ img{
   -o-background-size: cover;
   background-size: cover;
 }
-.bg-slider-wrapper .flexslider .slide.slide-2 {
-  background: #253340 url('../images/bg-header-2.jpg') no-repeat 50% center;
+/*.bg-slider-wrapper .flexslider .slide.slide-2 {
+  background: #253340 url('../images/bg-2.jpg') no-repeat 50% center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
+}*/
 
 /* ======= banner上的文字 ======= */
 .promo {
@@ -201,6 +201,13 @@ img{
 }
 
 /*===概述===*/
+.section--description {
+    font-size: 20px;
+    line-height: 30px;
+    color: #9b9b9b;
+    text-align: center;
+    margin: 13px 0 14px;
+}
 .bg-gray{
 	/*background: #f3f4f4;*/
 }
@@ -261,7 +268,7 @@ img{
 }
 .property{
 	height: 340px;
-	background-image: url(../images/property.jpg);
+	background-image: url(../images/feature.png);
 	/*background-color: #666666;*/
 	
 	background-size: cover;
