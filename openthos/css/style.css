@@ -277,6 +277,7 @@ ul {
 .subfooter p {
 	margin: 0;
 	text-align: center;
+	color: #d4d4d4;
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -797,44 +798,6 @@ ul {
 	}
 }
 
-
-/* Social icons block
----------------------------------- */
-.social-links {
-	list-style: none;
-	font-size: 0;
-	padding: 0;
-	margin:2px 0 0 20px;
-}
-.social-links li {
-	display: inline-block;
-	margin: 0 2px 2px 0;
-}
-.social-links li a {
-	width: 45px;
-	height: 45px;
-	display: block;
-	text-align: center;
-	font-size: 20px;
-	background: #e84c3d;
-	border: 1px solid #e84c3d;
-	color: #fff;
-}
-.social-links.circle li a {
-	-webkit-border-radius: 100%;
-	-moz-border-radius: 100%;
-	border-radius: 100%;
-	background: none;
-	color: #807f7f;
-}
-.social-links li a:hover {
-	background-color: transparent;
-	border-color: #cd3c2e;
-	color: #cd3c2e;
-}
-.social-links li a i {
-	line-height: 44px;
-}
 
 .footer-content .social-links {
 	margin: 20px 0;

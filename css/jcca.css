@@ -23,12 +23,13 @@ img {
 }
 .navbar-default .navbar-brand{
 	/*text-align: center;*/
+	display: block;
 	color:#00a885 ;
 	font-family:"微软雅黑";
 	height: 70px;
-    line-height: 70px;
+    line-height: 36px;
     font-weight: 600;
-    font-size: 30px;
+    font-size:22px;
     padding:0 10px;
 }
 .navbar-default .navbar-brand:hover{
@@ -39,7 +40,7 @@ img {
 	height: 70px;
     line-height: 45px;
     font-weight: 400;
-}
+} 
 .navbar-default .navbar-nav>li>a:hover{
 	transition-duration: 0.7s;
 	background: #00a885b5;
@@ -61,10 +62,11 @@ p.shu{
 }
 p.heng{
 	width: 100%;
-	font-size: 18px;
+	font-size: 24px;
 	border-bottom: 1px solid #00a885b5;
 	margin-bottom: 30px;
 	padding-bottom: 10px;
+	font-weight: 500;
 }
 p.heng i{
 	/*color: #00a885b5;*/
@@ -109,7 +111,6 @@ p.heng i{
 .tstor a,.openthos a{
 	display: inline-block;
 	width: 100%;
-	height: 100px;
 }
 
 
