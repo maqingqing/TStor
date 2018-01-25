@@ -1,7 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a260bd48-5a4f-49a8-92ea-9e8ba0e4321a" name="Default" comment="" />
+    <list default="true" id="a260bd48-5a4f-49a8-92ea-9e8ba0e4321a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/manual.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/document1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/document2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/document3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/gluster1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/glusterfs2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu12/01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu12/02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu12/03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu12/04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu12/05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu12/06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu12/07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu14/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/59.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/61.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu3/63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu4/01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu5/01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu5/02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu5/03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu5/04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu5/05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu5/06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu5/07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu6/01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu6/02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu6/03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu7/01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu7/02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu7/03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu7/04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu7/05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu7/06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu7/07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu7/08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu7/09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu7/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu9/01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu9/02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu9/03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/img/docu9/04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/文档10：gluster中的iSCSI环境配置手册.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/文档13：更换故障磁盘的两种方式.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/文档3：CentOS操作系统安装.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/文档4a：通过yum缓存安装包，离线安装手册 (1).pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/文档4：CentOS二进制安装gluster.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/文档6：gluster管理员操作手册命令行操作手册.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/文档7：gluster快照操作手册.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/文档8：gluster Samba配置手册.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documents/文档9：gluster中的NFS环境配置手册.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Contents-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg-header-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg-header-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/figure-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/figure-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/figure-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/manual/01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/manual/b01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pattern-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pattern-light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/property.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/solution-show-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/froogaloop2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vimeo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manual.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/css/flexslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/js/back-to-top.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/js/bootstrap-hover-dropdown.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/js/isotope.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/js/jquery-1.12.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/js/jquery.flexslider-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/js/jquery.placeholder.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Favicon.ico" afterPath="$PROJECT_DIR$/Favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tongfang.JPG" afterPath="$PROJECT_DIR$/images/tongfang.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,34 +190,81 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="54" column="41" lean-forward="false" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+            <state relative-caret-position="-2012">
+              <caret line="49" column="45" lean-forward="false" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manual.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/manual.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openthos/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="194" column="60" lean-forward="false" selection-start-line="194" selection-start-column="60" selection-end-line="194" selection-end-column="60" />
+            <state relative-caret-position="254">
+              <caret line="495" column="0" lean-forward="true" selection-start-line="495" selection-start-column="0" selection-end-line="495" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openthos/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
+        <entry file="file://$PROJECT_DIR$/openthos/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="60" column="8" lean-forward="false" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+            <state relative-caret-position="126">
+              <caret line="907" column="50" lean-forward="false" selection-start-line="907" selection-start-column="50" selection-end-line="907" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="join.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openthos/join.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="399" column="50" lean-forward="false" selection-start-line="399" selection-start-column="50" selection-end-line="399" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tstor/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="314" column="59" lean-forward="false" selection-start-line="314" selection-start-column="59" selection-end-line="314" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jcca.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/jcca.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>feature</find>
+      <find>property</find>
+      <find>images/Contents-1.jpg</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,6 +273,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/tstor/about.html" />
+        <option value="$PROJECT_DIR$/tstor/manual.html" />
+        <option value="$PROJECT_DIR$/tstor/css/manual.css" />
+        <option value="$PROJECT_DIR$/tstor/js/main.js" />
+        <option value="$PROJECT_DIR$/tstor/css/style.css" />
+        <option value="$PROJECT_DIR$/css/jcca.css" />
+        <option value="$PROJECT_DIR$/openthos/about.html" />
+        <option value="$PROJECT_DIR$/openthos/index.html" />
+        <option value="$PROJECT_DIR$/openthos/join.html" />
+        <option value="$PROJECT_DIR$/tstor/index.html" />
       </list>
     </option>
   </component>
@@ -87,8 +314,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -111,19 +336,254 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="tstor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TStor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TStor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TStor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TStor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TStor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TStor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="TStor" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TStor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TStor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TStor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TStor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TStor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -148,15 +608,16 @@
     <option name="totallyTimeSpent" value="11717000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -184,13 +645,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="54" column="41" lean-forward="false" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+        <state relative-caret-position="1078">
+          <caret line="49" column="45" lean-forward="false" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manual.html">
+    <entry file="file://$PROJECT_DIR$/openthos/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10868">
+          <caret line="494" column="73" lean-forward="false" selection-start-line="494" selection-start-column="73" selection-end-line="494" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openthos/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -198,14 +667,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/openthos/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="60" column="8" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+        <state relative-caret-position="19954">
+          <caret line="907" column="42" lean-forward="false" selection-start-line="907" selection-start-column="42" selection-end-line="907" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/openthos/join.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jcca.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manual.html" />
+    <entry file="file://$PROJECT_DIR$/about.html" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="41" lean-forward="false" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manual.html" />
+    <entry file="file://$PROJECT_DIR$/about.html" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="41" lean-forward="false" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manual.html" />
+    <entry file="file://$PROJECT_DIR$/about.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
@@ -214,22 +729,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manual.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="55" lean-forward="false" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/manual.html" />
+    <entry file="file://$PROJECT_DIR$/about.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
@@ -238,15 +739,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manual.html">
+    <entry file="file://$PROJECT_DIR$/manual.html" />
+    <entry file="file://$PROJECT_DIR$/about.html" />
+    <entry file="file://$PROJECT_DIR$/about.html" />
+    <entry file="file://$PROJECT_DIR$/manual.html" />
+    <entry file="file://$PROJECT_DIR$/tstor/css/manual.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="55" lean-forward="true" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
-          <folding />
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/tstor/manual.html" />
+    <entry file="file://$PROJECT_DIR$/tstor/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="117" column="31" lean-forward="false" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tstor/about.html" />
+    <entry file="file://$PROJECT_DIR$/tstor/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="285" column="50" lean-forward="true" selection-start-line="285" selection-start-column="50" selection-end-line="285" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openthos/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -254,26 +774,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/jcca.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="54" column="41" lean-forward="false" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+        <state relative-caret-position="-2012">
+          <caret line="49" column="45" lean-forward="false" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/openthos/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="60" column="8" lean-forward="false" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+        <state relative-caret-position="126">
+          <caret line="907" column="50" lean-forward="false" selection-start-line="907" selection-start-column="50" selection-end-line="907" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manual.html">
+    <entry file="file://$PROJECT_DIR$/openthos/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="194" column="60" lean-forward="false" selection-start-line="194" selection-start-column="60" selection-end-line="194" selection-end-column="60" />
+        <state relative-caret-position="254">
+          <caret line="495" column="0" lean-forward="true" selection-start-line="495" selection-start-column="0" selection-end-line="495" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openthos/join.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="399" column="50" lean-forward="false" selection-start-line="399" selection-start-column="50" selection-end-line="399" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tstor/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="314" column="59" lean-forward="false" selection-start-line="314" selection-start-column="59" selection-end-line="314" selection-end-column="59" />
           <folding />
         </state>
       </provider>

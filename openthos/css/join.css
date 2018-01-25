@@ -1,0 +1,104 @@
+
+/* Fixed navigation
+---------------------------------- */
+.fixed-header-on .header.fixed {
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 1006;
+	opacity: 0;
+	filter: alpha(opacity=0);
+	border-bottom: 1px solid #f1f1f1;
+	padding: 7px 0;
+	background-color: rgba(255, 255, 255, 0.8);
+}
+.fixed-header-on.boxed .header.fixed {
+	left: auto;
+}
+.fixed-header-on .header .logo {
+	-webkit-transform: scale(0.80);
+	-moz-transform: scale(0.80);
+	-ms-transform: scale(0.80);
+	-o-transform: scale(0.80);
+	transform: scale(0.80);
+	margin: 2px 0 -4px 0;
+	display: none;
+}
+.fixed-header-on .header .site-slogan {
+	display: none;
+}
+.fixed-header-on .header .navbar.navbar-default {
+	margin: 0;
+}
+.fixed-header-on .header.fixed.animated {
+	-webkit-animation-duration: 0.5s;
+	animation-duration: 0.5s;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width:768px) {
+	.fixed-header-on.boxed .header.fixed {
+		width: 750px;
+	}
+}
+
+/* Medium devices (desktops, tablets, 992px and up) */
+@media (min-width:992px) {
+	.fixed-header-on .header .logo {
+		display: block;
+	}
+	.fixed-header-on.boxed .header.fixed {
+		width: 970px;
+	}
+}
+
+/* Large devices (Large desktops 1200px and up) */
+@media (min-width:1200px) {
+	.fixed-header-on.boxed .header.fixed {
+		width: 1170px;
+	}
+}
+
+/* Small devices (tablets, phones less than 767px) */
+@media (max-width:767px) {
+	/* Fixed header position */
+	.header.fixed {
+		position: relative !important;
+		top: auto !important;
+	}
+}
+
+.gallery.row {
+	margin-left: -5px;
+	margin-right: -5px;
+}
+.gallery-item {
+	padding-right: 5px;
+	padding-left: 5px;
+	margin-bottom: 10px;
+}
+
+.blog_content{background: #f5f5f5;}
+/*.page-intro .container{width: 100%;padding: 0;}*/
+.breadcrumb i{padding-right: 10px;}
+.breadcrumb{margin-top: 10px;}
+.page-intro {
+	/*padding: 10px 0;*/
+	-webkit-box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.06) inset;
+	box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.06) inset;
+	background-color: #fafafa;
+	border-bottom: 1px solid #dadada;
+}
+.border-ra{border-radius: 8px;}
+.textIndent{text-indent: 28px;margin-bottom: 0;margin-top: 10px;}
+.table.table-hover.table-bordered{
+	text-align: center;
+	margin-left: 28px;
+	margin-top: 10px;
+}
+.table.table-hover.table-bordered>thead>tr>th{text-align: center;}
+.mf-20{margin-left: 20px;}
+.deve:hover{text-decoration: none;}
+.main-container{padding: 20px 0;}
+.joinI{color:#c790de;}

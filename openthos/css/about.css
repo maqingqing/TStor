@@ -1,0 +1,97 @@
+/* Fixed navigation
+---------------------------------- */
+.fixed-header-on .header.fixed {
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 1006;
+	opacity: 0;
+	filter: alpha(opacity=0);
+	border-bottom: 1px solid #f1f1f1;
+	padding: 7px 0;
+	background-color: rgba(255, 255, 255, 0.8);
+}
+.fixed-header-on.boxed .header.fixed {
+	left: auto;
+}
+.fixed-header-on .header .logo {
+	-webkit-transform: scale(0.80);
+	-moz-transform: scale(0.80);
+	-ms-transform: scale(0.80);
+	-o-transform: scale(0.80);
+	transform: scale(0.80);
+	margin: 2px 0 -4px 0;
+	display: none;
+}
+.fixed-header-on .header .site-slogan {
+	display: none;
+}
+.fixed-header-on .header .navbar.navbar-default {
+	margin: 0;
+}
+.fixed-header-on .header.fixed.animated {
+	-webkit-animation-duration: 0.5s;
+	animation-duration: 0.5s;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width:768px) {
+	.fixed-header-on.boxed .header.fixed {
+		width: 750px;
+	}
+}
+
+/* Medium devices (desktops, tablets, 992px and up) */
+@media (min-width:992px) {
+	.fixed-header-on .header .logo {
+		display: block;
+	}
+	.fixed-header-on.boxed .header.fixed {
+		width: 970px;
+	}
+}
+
+/* Large devices (Large desktops 1200px and up) */
+@media (min-width:1200px) {
+	.fixed-header-on.boxed .header.fixed {
+		width: 1170px;
+	}
+}
+
+/* Small devices (tablets, phones less than 767px) */
+@media (max-width:767px) {
+	/* Fixed header position */
+	.header.fixed {
+		position: relative !important;
+		top: auto !important;
+	}
+}
+
+.embed-responsive.embed-responsive-16by9 {
+    padding-bottom: 74.25%;
+}
+/*.developer .col-md-2 .content,.developer .col-md-3 .content{background: #FAFAFA;-webkit-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.13);box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.13);}*/
+.developer .col-md-2 .content p,.developer .col-md-3 .content p{
+	margin: 0;
+	padding: 0;
+	/*height: 40px;*/
+	line-height: 28px;
+}
+.developer .col-md-2 .content p:after,.developer .col-md-3 .content p:after{
+	content: '';
+	display: block;
+	width: 100%;
+	height: 1px;
+	margin: auto;
+	background: #e3e4e4;
+	
+}
+.developer .col-md-2,.developer .col-md-3,.developer .col-sm-4,.developer .col-sm-6,.developer .col-xs-6{margin-top: 20px;}
+
+
+.collaborators{background: #fafafa;}
+.collaborators img{display: inline-block;width: auto;}
+.content span.span_block{  display: block;text-indent:0;}
+.content span.font_12{font-size: 12px;}
+.text-center1{text-indent: 26%;}

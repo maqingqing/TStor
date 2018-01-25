@@ -4,299 +4,153 @@
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
-		<title>TStor</title>
-		
-		<link rel="shortcut icon" href="Favicon.ico">  
-	    <link rel="stylesheet" href="plugins/css/bootstrap.min.css">   
+		<title>JCCA</title>
+		 
+	    <link rel="stylesheet" href="css/bootstrap.min.css">   
 	    <!-- Plugins CSS -->    
-	    <link rel="stylesheet" href="plugins/font-awesome/css/font-awesome.css">
-	    <link rel="stylesheet" href="plugins/css/flexslider.css">
-	    <!-- Theme CSS -->
-	    <link rel="stylesheet" href="css/style.css">
+	    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.css">
+	    <!--<link rel="stylesheet" href="plugins/css/flexslider.css">-->
+	    
+	    <link rel="stylesheet" href="css/jcca.css">
 		
 	</head>
 	<body class="home-page">
-		<header id="header" class="header navbar-fixed-top">
+		<!--导航-->
+		<nav class="navbar navbar-default">
 			<div class="container">
-				<div class="row">
-					<div class="col-md-2 col-md-offset-0 col-sm-3 col-sm-offset-5 col-xs-3 col-xs-offset-4">
-						<!-- header-left start -->
-						<div class="header-left clearfix">
-							<div class="logo">
-								<a href="index.html">
-									<img id="logo" src="images/logo.png">
-								</a>
-							</div>
-						</div>
-						<!-- header-left end -->
-					</div>
-					<nav class="main-nav navbar-right" role="navigation">
-						<div class="navbar-header">
-							<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse">
-								<span class="sr-only">Toggle navigation</span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-							</button>
-						</div>
-						<div id="navbar-collapse" class="navbar-collapse collapse">
-							<ul class="nav navbar-nav">
-								<li class="active nav-item">
-									<a href="index.html">首页</a>
-								</li>
-								<li class="nav-item">
-									<a href="manual.html">使用手册</a>
-								</li>
-								<li class="nav-item">
-									<a href="about.html">关于我们</a>
-								</li>
-							</ul><!--nav-->
-						</div><!--navbar-collapse-->
-					</nav><!--main-nav-->
-				</div><!--row-->
+				<div class="navbar-header">
+					<a href="#" class="navbar-brand">
+						JCCA
+					</a>
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+				<div class="collapse navbar-collapse" id="navbar-collapse">
+					<ul class="nav navbar-nav navbar-right" style="margin-top:0">
+						<li><a href="/openthos/" target="_blank"><span class="fa fa-leaf"></span> OPENTHOS</a></li>
+						<li><a href="/tstor/" target="_blank"><span class="fa fa-leaf"></span> TStor</a></li>
+					</ul>	
+				</div>
+			</div>
+		</nav>
+		
+		<section class="section jcca">
+			<div class="container">
+				<p class="heng">
+					<i class="fa fa-star"></i>
+					研究中心简介
+				</p>
 				
-			</div><!--container-->
-		</header>
-		<div class="bg-slider-wrapper">
-	        <div class="flexslider bg-slider">
-	            <ul class="slides">
-	                <li class="slide slide-1"></li>
-	                <!--<li class="slide slide-2"></li>-->
-	            </ul>
-	        </div>
-	    </div><!--//bg-slider-wrapper-->  
-	    
-	    <section class="promo section section-on-bg">
-	        <div class="container text-center">  
-	        	
-	            <h2 class="title">TStor <br />高容错自维护存储系统</h2>
-	            <p class="intro">高容错自维护存储系统是指存储系统交付使用之后，在其生命周期内不发生数据丢失，并且无需管理员进行维护的存储系统</p>
-	            <!--<p><a class="btn btn-cta btn-cta-primary" href="#gaishu">了解更多</a></p>-->   
-	        </div><!--//container-->
-	    </section><!--//promo-->
-	    
-	    
-	    <!--简介-->
-	    <section class="section" id="gaishu">
-	    	<div class="container">
-	    		<h1 class="section--title">概述</h1>
-	    		<div class="row">
-	    			<p class="section--description">高容错自维护存储系统采用大规模的数据纠删码方法，在大幅度提高系统可靠性的同时降低系统所需要的存储容量。
-在交付使用的时候，无需在系统磁盘出现错误的时候立即处理，降低系统的运维负担。</p>
-	    		</div>
-	    		<div class="row">
-	    			<div class="col-md-6">
-	    				<div class="o2o-box">
-		                	<img src="images/figure-2.png" alt="" />
-			                <div class="o2o-content">
-			                  <p>TStore采用了对称横向的扩展存储结构，提供大规模的分布式文件系统存储能力，面向海量数据存储应用</p>
-			                </div>
-		              </div>
-	    			</div>
-	    			<div class="col-md-6">
-	    				<div class="o2o-box">
-		                	<img src="images/figure-3.png" alt="" />
-			                <div class="o2o-content">
-			                  <p>能够满足媒体存储、地理信息、基因拼接、科学计算、教育科研、应用灾备等多种行业的应用需求</p>
-			                </div>
-		              </div>
-	    			</div>
-	    		</div>
-	    	</div>
-	    </section>
+				<div class="row intro">
+					
+					<div class="col-md-7">
+						<div class="jianjie">
+							<h3>清华大学-同方股份有限公司计算机系统结构联合研究中心</h3>
+							<p>清华大学与同方股份有限公司本着友好合作、互惠互利、优势互补、共同发展“双赢”的原则， 
+								在信息技术与计算机系统结构领域，充分利用清华大学已有的科技成果和研发力量，
+								结合同方股份有限公司的资金、资源和平台优势， 联合成立“清华大学-同方股份有限公司计算机系统结构联合研究中心”.
+							</p>
+						</div>
+						
+					</div>
+					<div class="col-md-5">
+						<img src="images/tongfang.JPG" alt="" />
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		
+		
+		<section class="section target_sec">
+			<div class="container">
+				<p class="heng">
+					<i class="fa fa-star"></i>
+					建设目标和研究方向
+				</p>
+				<div class="row">
+					<div class="col-md-7">
+						<img src="images/target.jpg" alt="" />
+					</div>
+					<div class="col-md-5">	
+						<h3>建设目标</h3>
+						<p class="target">通过合作研究信息技术领域的核心技术及安全可靠的计算机产品、软件与解决方案， 努力提升双方在计算机系统结构领域的研发水平，增强企业在自主可控计算机系统方面的核心竞争力， 同时带动相关科研及产业链条的进步，为保障国家信息安全做贡献</p>
+						<h3>研究方向</h3>
+						<div class="row">
+							<div class="col-md-6">
+								<div>
+									<i class="fa fa-archive"></i>
+									<span>网络存储系统</span>
+								</div>
+							</div>
+							<div class="col-md-6">
+								<i class="fa fa-paper-plane"></i>
+								<span>通用国产操作系统</span>
+							</div>
+							
+						</div>
+						<div class="row ">
+							<div class="col-md-6">
+								<i class="fa fa-laptop"></i>
+								<span>核心自主的计算机</span>
+							</div>
+							<div class="col-md-6">
+								<i class="fa fa-server"></i>
+								<span>国产高性能服务器</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</section>
+		
+		
+		
+		<!--<section class="section">
+			<div class="container">
+				<p class="heng">
+					<i class="fa fa-star"></i>
+					在重点领域率先突破
+				</p>
+				<div class="row"></div>
+			</div>
+		</section>-->
+		
+		<section class="section">
+			<div class="container">
+				<p class="heng">
+					<i class="fa fa-star"></i>
+					在重点领域率先突破
+				</p>
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2">
+						<div class="row">
+							<div class="col-md-6 tstor">
+								<a href="/tstor/" target="_blank">
+									<img src="images/logo.png" alt="" />
+								</a>
+								<p>TSTOR高可靠自维护网络存储系统</p>
+								
+							</div>
+							<div class="col-md-6 openthos">
+								<a href="/openthos/" target="_blank">
 
+									<img src="images/openthos.png" alt="" />
+								</a>
+								<p> OPENTHOS开放桌面操作系统</p>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</section>
 	    
-	    <section class="section">
-	    	<div class="container">
-	    		<h1 class="section--title">特征及其优势</h1>
-	    		<div class="row featuress">
-	    			<div class="col-md-3 feature ff active">
-	    				<div class="row ">
-							<div class="col-md-3 padding-right-0">
-								<i class="fa fa-cog"></i>
-							</div>
-							<div class="col-md-9">
-								<strong class="feature_title">一次部署，长期运行</strong>
-	  							<!--<p class="feature_description">高容错自维护存储系统</p>-->
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 feature ff">
-	    				<div class="row">
-							<div class="col-md-3 padding-right-0">
-								<i class="fa fa-lightbulb-o"></i>
-							</div>
-							<div class="col-md-9">
-								<strong class="feature_title">弹性存储架构</strong>
-                  				<!--<p class="feature_description">高容错自维护存储系统</p>-->
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 feature ff">
-	    				<div class="row">
-							<div class="col-md-3 padding-right-0">
-								<i class="fa fa-line-chart"></i>
-							</div>
-							<div class="col-md-9">
-								<strong class="feature_title">错误模块自动屏蔽</strong>
-                  				<!--<p class="feature_description">高容错自维护存储系统</p>-->
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 feature ff">
-	    				<div class="row">
-							<div class="col-md-3 padding-right-0">
-								<i class="fa fa-hourglass-end"></i>
-							</div>
-							<div class="col-md-9 padding-right-0">
-								<strong class="feature_title">部署方便</strong>
-                  				<!--<p class="feature_description">高容错自维护存储系统</p>-->
-							</div>
-						</div>
-					</div>
-	    		</div>
-    			<div class="row">
-    				<div class="outer outer2">
-	    				<div class="property property1 active pp">
-	    					<div class="content">
-	    						<div class="property_title property_title1">数据保存高可靠</div>
-	    						<div class="property_title property_title1">不影响应用性能</div>
-								<div class="property_descri">
-								高可靠配置，磁盘出错无需立即处理
-								</div>
-	    					</div>
-	    				</div>
-	    				<div class="property property2 pp">
-	    					<div class="content">
-	    						<div class="property_title property_title2">不影响应用性能</div>
-	    						<div class="property_title property_title2">存储高效率</div>
-								<div class="property_descri">
-								系统可以进行横向扩展，按需扩容
-								</div>
-	    					</div>
-	    				</div>
-	    				<div class="property property3 pp">
-	    					<div class="content">
-	    						<div class="property_title property_title3">数据保存高可靠</div>
-	    						<div class="property_title property_title3">数据快速自愈</div>
-								<div class="property_descri">
-								系统监控磁盘运行，出错自动隔离
-								</div>
-	    					</div>
-	    				</div>
-	    				<div class="property property4 pp">
-	    					<div class="content">
-	    						<div class="property_title property_title4">数据保存高可靠</div>
-	    						<div class="property_title property_title4">数据快速自愈</div>
-								<div class="property_descri">
-								使用Web界面，方便部署使用
-								</div>
-	    					</div>
-	    				</div>
-	    			</div>
-    			</div>
-	    	</div>
-	    </section>
 	    
-	    <section class="section">
-	    	<div class="container">
-	    		<h1 class="section--title">关键特性</h1>
-	    		<!--<p class="section-description">
-	    			
-	    		</p>-->
-	    		<div class="row">
-	    			<div class="col-md-3">
-			            <div class="service_item">
-			              	<i class="service_item--icon fa fa-diamond"></i>
-			              	<h3 class="service_item--title">横向扩展</h3>
-			              	<div class="service_item--text">
-								<p>TStor采用全对称的分布式架构，其横向扩展的特性能够将系统进行无缝扩展，可以扩展到128个节点，存储能力达10PB以上</p>
-							</div>
-			              	<!--<footer class="service_item--footer"><a href="#" class="link -blue_light">Learn More>></a></footer>-->
-			            </div>
-			        </div>
-			        <div class="col-md-3">
-			            <div class="service_item">
-			              	<i class="service_item--icon fa fa-user"></i>
-			              	<h3 class="service_item--title">数据可靠</h3>
-			              	<div class="service_item--text">
-								<p>TStor采用大规模的编解码技术，保证极高的数据可靠性，在使用32+16规模的编码上，可以提供7个9的数据可靠性保障（磁盘的AFR取0.01）</p>
-							</div>
-			              	<!--<footer class="service_item--footer"><a href="#" class="link -blue_light">Learn More>></a></footer>-->
-			            </div>
-			        </div>
-			        <div class="col-md-3">
-			            <div class="service_item">
-			              	<i class="service_item--icon fa fa-umbrella"></i>
-			              	<h3 class="service_item--title">高性能</h3>
-			              	<div class="service_item--text">
-								<p>TStor采用高速的数据编解码技术，在保证可靠性的同时不降低数据读写的性能，单个客户端节点的性能达1GB/s以上</p>
-							</div>
-			              	<!--<footer class="service_item--footer"><a href="#" class="link -blue_light">Learn More>></a></footer>-->
-			            </div>
-			        </div>
-			        <div class="col-md-3">
-			            <div class="service_item">
-			              	<i class="service_item--icon fa fa-briefcase"></i>
-			              	<h3 class="service_item--title">开放架构</h3>
-			              	<div class="service_item--text">
-								<p>TStor采用开放的存储架构形式，可以依据用户定义存储参数，支持非结构化的文件存储以及面向对象存储等多种存储形式。支持NFS，CIFF，FTP，iSCSI，Swift等多种接口</p>
-							</div>
-			              	<!--<footer class="service_item--footer"><a href="#" class="link -blue_light">Learn More>></a></footer>-->
-			            </div>
-			        </div>
-	    		</div>
-	    	</div>
-	    </section>
-		
-		
-		<!--联系我们-->
-		<div class="section" style="margin-top:0px;background-image: url('images/pattern-light.png');">
-		    <div class="container">
-		      <!--index-container start-->
-		      <div class="index-container">
-		        <div class="row">
-		          <!--<div class="col-md-4">
-		            <div class="contact_card">
-						<i class="fa fa-phone"></i>
-						<strong class="contact_card--title">Contact Us</strong>
-						<p class="contact_card--text">
-							Feel free to call us on 
-							<br> 
-							<strong>0 (855) 233-5385</strong> 
-							<br> Monday - Friday, 9am - 6pm
-						</p>
-					</div>
-		          </div>-->
-		          <div class="col-md-6">
-		            <div class="contact_card">
-						<i class="fa fa-envelope-o"></i>
-						<strong class="contact_card--title">Our Email</strong>
-						<p class="contact_card--text">
-							Drop us a line anytime at 
-							<br> 
-							<strong>
-								<a href="###">example@tstor.com</a>
-							</strong> 
-						</p>
-					</div>
-		          </div>
-		          <div class="col-md-6">
-		            <div class="contact_card">
-						<i class="fa fa-map-marker"></i>
-						<strong class="contact_card--title">Our Address</strong>
-						<p class="contact_card--text">
-							Tsinghua University 
-							<br> 
-							<strong>FIT building, 3-102,</strong>
-						</p>
-					</div>
-		          </div>
-		        </div>
-		      </div>
-		      <!--index-container end-->
-		    </div>
-		</div>
 		
 		
 		<!--===========layout-footer================-->
@@ -308,31 +162,12 @@
 		        <div class="container">
 		          <div class="footer_main">
 
-		              <div>Copyright (c) 2017 TStor实验室. All Rights Reserved</div>
+		              <div>Copyright (c) 2017 清华大学-同方股份有限公司计算机系统结构联合研究中心. All Rights Reserved</div>
 
 		          </div>
 		        </div>
 		      </div>
 		    </div>
 		  </div>
-		
-		<!--返回顶部-->
-		<div id="topcontrol" title="Scroll Back to Top">
-			<i class="fa fa-angle-up"></i>
-		</div>
-		
-		
-		<!-- Javascript -->          
-	    <script type="text/javascript" src="plugins/js/jquery-1.12.3.min.js"></script>
-	    <script type="text/javascript" src="plugins/js/bootstrap.min.js"></script> 
-	    <script type="text/javascript" src="plugins/js/bootstrap-hover-dropdown.min.js"></script>
-	    <!--<script type="text/javascript" src="plugins/js/back-to-top.js"></script>-->
-	    <script type="text/javascript" src="plugins/js/jquery.placeholder.js"></script>
-	    <script type="text/javascript" src="plugins/js/jquery.flexslider-min.js"></script>     
-	    <script type="text/javascript" src="js/main.js"></script>
-	    
-	    <!-- Vimeo video API -->
-	    <script src="js/froogaloop2.min.js"></script>
-	    <script type="text/javascript" src="js/vimeo.js"></script> 
 	</body>
 </html>

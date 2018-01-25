@@ -1,0 +1,157 @@
+body,html{
+	padding: 0;
+	margin: 0;
+}
+body {
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: #444;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/********头部********/
+
+.navbar-default{
+	background: #fff;
+}
+.navbar-default .navbar-brand{
+	/*text-align: center;*/
+	color:#00a885 ;
+	font-family:"微软雅黑";
+	height: 70px;
+    line-height: 70px;
+    font-weight: 600;
+    font-size: 30px;
+    padding:0 10px;
+}
+.navbar-default .navbar-brand:hover{
+	color:#00a885 ;
+}
+.navbar-default .navbar-nav>li>a{
+	background: #fff;
+	height: 70px;
+    line-height: 45px;
+    font-weight: 400;
+}
+.navbar-default .navbar-nav>li>a:hover{
+	transition-duration: 0.7s;
+	background: #00a885b5;
+	color: #fff;
+}
+
+.section{
+	margin: 40px 0;
+}
+
+
+/*介绍实验室部分*/
+p.shu{
+	font-size: 18px;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 10px;
+	border-left:2px solid #00a885b5;
+}
+p.heng{
+	width: 100%;
+	font-size: 18px;
+	border-bottom: 1px solid #00a885b5;
+	margin-bottom: 30px;
+	padding-bottom: 10px;
+}
+p.heng i{
+	/*color: #00a885b5;*/
+}
+.jianjie{
+	width: 100%;
+}
+.jianjie p{
+	width: 90%;
+	text-align: center;
+	margin: auto;
+	color: gray;
+	margin-top: 11%;
+	line-height: 30px;
+}
+.target{
+	color: #777;
+	line-height: 28px;
+}
+.target_sec .col-md-6 i{
+	color: #00a885b5;
+	font-size: 20px;
+	padding-right: 4px;
+}
+.target_sec span{
+	color: #777;
+}
+.target_sec .col-md-6{
+	margin-top: 20px;
+}
+
+
+/*在重点领域率先突破*/
+.tstor,.openthos{
+	text-align: center;
+}
+.tstor p,.openthos p{
+	color: #777;
+	font-size: 20px;
+	margin-top: 20px;
+}
+.tstor a,.openthos a{
+	display: inline-block;
+	width: 100%;
+	height: 100px;
+}
+
+
+/*====footer====*/
+.layout-footer .footer {
+    width: 100%;
+    background: url(../images/footer.jpg);
+    background-size: cover;
+    position: relative;
+}
+.layout-footer .footer a,.layout-footer .footer{
+	color: #fff;
+}
+.layout-footer .footer .footer--bg {
+	background-color:#383d61;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: .95;
+    top: 0;
+    left: 0;
+}
+.layout-footer .footer .footer--inner {
+    position: relative;
+    z-index: 1;
+}
+.layout-footer .footer .footer--inner .footer_main {
+    position: relative;
+    text-align: center;
+    padding: 26px 0;
+}
+
+
+@media only screen and (min-width: 1200px) {
+	.target_sec .col-md-5{
+		margin-top: 54px;
+	}
+}
+
+@media only screen and (max-width: 992px) {
+	.jianjie{
+		margin-top: 2%;
+		margin-bottom: 2%;
+	}
+}
